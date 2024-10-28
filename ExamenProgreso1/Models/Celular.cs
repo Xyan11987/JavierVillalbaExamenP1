@@ -19,6 +19,5 @@ namespace ExamenProgreso1.Models
         [DataType(DataType.Currency)]
         public float Precio { get; set; }
 
-        public JVillalba JVillalba { get; set; }
     }
 }
